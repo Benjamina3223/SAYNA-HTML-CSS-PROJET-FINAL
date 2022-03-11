@@ -1,4 +1,13 @@
 header {
-    background: color #d35649;
-    ;
+    background-color: #d35649;
+}
+
+nav>a img {
+    width: 100px;
+    height: 3rem;
+}
+
+nav div a img {
+    width: 2rem;
+    height: 2rem;
 }
